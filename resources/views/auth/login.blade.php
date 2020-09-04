@@ -6,7 +6,7 @@
             <div class="card-body p-4">
                 <h1>{{ trans('panel.site_title') }}</h1>
 
-                <p class="text-muted">{{ trans('global.login') }}</p>
+                <p class="text-muted">your electronic help desk support, to serve you better.</p>
 
                 @if(session('status'))
                     <div class="alert alert-success" role="alert">
