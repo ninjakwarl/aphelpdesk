@@ -1,7 +1,5 @@
 Support Ticketing System based on Laravel
 
-Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.com)
-
 ---
 
 ![Laravel Support Tickets 01](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.07-PM.png)
