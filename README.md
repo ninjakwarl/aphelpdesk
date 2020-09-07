@@ -1,4 +1,4 @@
-Demo support ticketing project based on Laravel 6.
+Support Ticketing System based on Laravel
 
 Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.com)
 
